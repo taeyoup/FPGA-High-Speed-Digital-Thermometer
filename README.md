@@ -1,4 +1,4 @@
-# FPGA-Digital-High-Speed-Thermometer
+# FPGA-High-Speed-Digital-Thermometer
 >Using Zybo Z7-20 FPGA Board & Vivado
 
 ## Making a FPGA Thermometer with a faster speed than a typical Thermometer
